@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Be Quick or Be Dead.mp3";		
+f[2]	= "02 Tailgunner.mp3";		
+f[3]	= "03 No More Lies.mp3";		
+f[4]	= "04 Coming Home.mp3";		
+f[5]	= "05 The Clansman [Live].mp3";		
+f[6]	= "06 For the Greater Good of God.mp3";		
+f[7]	= "07 These Colours Don't Run.mp3";		
+f[8]	= "08 Bring Your Daughter... To the Slaughter.mp3";		
+f[9]	= "09 Afraid to Shoot Strangers.mp3";		
+f[10]	= "10 Dance of Death.mp3";		
+f[11]	= "11 When the Wild Wind Blows.mp3";		
