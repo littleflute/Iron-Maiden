@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 The Wicker Man.mp3";		
+f[2]	= "02 Holy Smoke.mp3";		
+f[3]	= "03 El Dorado.mp3";		
+f[4]	= "04 Paschendale.mp3";		
+f[5]	= "05 Different World.mp3";		
+f[6]	= "06 Man on the Edge [Live][Live].mp3";		
+f[7]	= "07 The Reincarnation of Benjamin Breeg.mp3";		
+f[8]	= "08 Blood Brothers.mp3";		
+f[9]	= "09 Rainmaker.mp3";		
+f[10]	= "10 Sign of the Cross [Live][Live 2001].mp3";		
+f[11]	= "11 Brave New World.mp3";		
+f[12]	= "12 Fear of the Dark [Live][Live 2001].mp3";		
